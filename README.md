@@ -2,7 +2,8 @@
 
 Algo sobre mi:
 
-- Mi nombre:
+- Mi nombre: 
+- <img alt="Logo" src="imagenes/nombre.png">
 - Estudiante de la carrera de ingenieria en sistemas computacionales en el Instituto Tecnologico de Tijuana. <p align="center">
     <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=250 height=250>
 </p>
